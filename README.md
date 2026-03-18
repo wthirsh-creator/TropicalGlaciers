@@ -7,4 +7,6 @@ The Google Earth Engine Scripts can be used to extract CHIRPS precipitation data
 
 The python notebook (TropicalGlaciers_Figures) contains cells that can perform NDVI smoothing, correlation analysis, NDVI seasonal comparison, and climate condition comparison. They can be run with the data inside the "GlacierProject" folder in this repository. You can download the folder and update "BASE_DIR" in each cell with the folder's location on your computer. 
 
+The code in this repository is licensed under the MIT License — see LICENSE for details. The data in the `GlacierProject/` directory is not covered by this license and is subject to its own terms. 
+
 Please reach out to William Hirsh (wthirsh@g.ucla.edu) with questions.
